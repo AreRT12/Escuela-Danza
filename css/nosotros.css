@@ -1,0 +1,64 @@
+nav ul{
+	list-style-type: none; 
+	padding-top: 80px;
+	margin: 0-15px 0  0;
+	left:22%;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: capitalize;
+    white-space: nowrap;
+    position: relative;
+    text-indent: 80px;
+}
+nav li{
+	position:relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 8px 12px;
+	color: #808080;
+	}
+.escuela {
+	color: #000080;
+	position: relative;
+	text-align: center;
+	font-size: 30px;
+	top:50px;
+}
+.dance7{
+	
+	margin-top:-140px;
+	width: 100%;
+    height:700px;
+	background-size: 100% 100%;
+	background-position: 100% 180px;
+	background-image: url("../img/dance_7.jpg");/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+}
+.trans{
+      background-color:black;
+      color:white;
+      position:absolute;
+      margin-top: 300px;
+      margin-left:400px;
+      text-align:center;
+      top:50px;
+      left:40px;
+      padding:40px;
+      font-size:14px;
+      font-weight:bold;
+      width:500px;
+    }
+.cube{
+	background-size: 100%;
+	background-image: url("../img/cubes.png");/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+    padding-bottom: 300px;/*poner imagen de fondo*/
+}

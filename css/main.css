@@ -1,0 +1,271 @@
+nav ul{
+	list-style-type: none; 
+	padding-top: 80px;
+	margin: 0-15px 0  0;
+	left:22%;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: capitalize;
+    white-space: nowrap;
+    position: relative;
+    text-indent: 80px;
+}
+nav li{
+	position:relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 8px 12px;
+	color: #808080;
+	}
+.escuela {
+	color: #000080;
+	position: relative;
+	text-align: center;
+	font-size: 30px;
+	top:50px;
+}
+.dance1{
+	
+	margin-top:-140px;
+	width: 100%;
+    height:700px;
+	background-size: 100% 100%;
+	background-position: 100% 180px;
+	background-image: url("../img/dance_1.jpg");/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+	
+}
+.lined{
+	background-size: 100%;
+	background-image: url("../img/textura_2.jpg");/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+    padding-bottom: 80px;/*poner imagen de fondo*/
+}
+.rectangulo{
+	height:30px;
+	width: 70px;
+	position:relative;
+	background-color:#191970;
+	color:white;
+	font-size: 12px;
+	text-align: center;
+	top:130px;
+	left:150px;
+}
+.rec p{
+	position: relative;
+	top:8px;
+}
+.studio h1{
+	color:white;
+	top:220px;
+	left:150px;
+	position: relative;
+	font-size: 50px;
+}
+.jul h6{
+    color:white;
+    height: 150px;
+    width: 150px;
+	top:230px;
+	left:150px;
+	position: relative;
+	font-size: 10px;
+}
+.july p{
+	top:70px;
+	position: relative;
+	font-size: 20px;
+	text-align: center;
+}
+.dec1{
+	 height: 100px;
+     width: 100px;
+     position: relative;
+     top:70px;
+     left:630px;
+}
+.oferta{
+	height:40px;
+	width: 250px;
+	position:relative;
+	background-color:#191970;
+	color:white;
+	font-size: 12px;
+	text-align: center;
+	left:550px;
+}
+.of p{
+	position: relative
+	color:black;
+	top:8px;
+	font-size: 12px;
+}
+.ins4{
+	
+	background-size: 100%;
+	background-image: url("../img/instructor_4.jpg") ;/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+    padding-bottom: 320px;
+    border:1px solid black;
+}
+.profe9{
+	background-size: 100%;
+	background-image: url("../img/profesor_9.jpg");/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+    padding-bottom: 320px;
+    border:1px solid black;
+}
+
+.nuestros{
+	font-size: 16px;
+	width:300px;
+	top:-40px;
+}
+.nu p{
+	margin-top:10px;
+}.danza p{
+	font-style: georgia;
+	font-size: 64px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: center;
+}
+.blue{
+	background-color: #191970;
+	padding-bottom: 0px;
+}
+.lore p{
+	position: relative;
+	height: 150px;
+	width: 350px;
+	color:white;
+	text-align: left;
+	left:80px;
+	top:80px;
+}
+.visitanos h5{
+	position: relative;
+	font-size: 16px;
+	font-weight: bold;
+	height: 150px;
+	width: 350px;
+	color:white;
+	text-align: left;
+	left:80px;
+	top:70px;
+}
+.dir h6{
+	position: relative;
+	font-size: 12px;
+	height: 100px;
+	width: 120px;
+	color:white;
+	text-align: left;
+	left:80px;
+	top:-60px;
+}
+.mapa{
+	position: relative;
+	top:50px;
+}
+.shoes{
+	
+	background-size: 100%;
+	background-image: url("../img/shoes_1.jpg") ;/*poner imagen de fondo*/
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 600px;
+    position: relative;
+    float:right;
+}
+.conta h1{
+	color:#191970;
+	top:80px;
+	left:-420px;
+	position: relative;
+	font-size: 40px;
+}
+.contacto{
+	width:10px;
+	height: 10px;
+	left: 1px;
+	position: relative;
+}
+.nombre p{
+	top:100px;
+	left:150px;
+	position: relative;
+	font-size: 12px;
+}
+.form {
+
+	width: 200px;
+	height: 50px;
+}
+
+.form {
+	position: relative;
+	width:700px;
+	height: 80px;
+	top:120px;
+	right: 420px;
+}
+.user{
+	text-align: left;
+	margin-bottom: 20px;
+	width:400px;
+	height: 30px;
+}
+.password{
+	text-align: left;
+	margin-bottom: 20px;
+	width:400px;
+	height: 30px;
+}
+.favorite{
+	text-align: left;
+	margin-bottom: 20px;
+	width:400px;
+	height: 80px;
+}
+.enviar{
+	position: relative;
+	width:400px;
+	top:250px;
+	right:410px;
+    height:40px;
+	background-color:#191970;
+	text-align: center;
+
+}
+.envi p{
+	position: relative;
+	left:10px;
+	color:white;
+	top:8px;
+	font-size: 18px;
+	text-align: center;
+}
+.foot{
+	background-color: #191970;
+	position:relative;
+	top:600px;
+	height:50px;
+	padding-bottom: -1000px;
+}
+.fot p{
+	position:relative;
+	color:white;
+	top:-585px;
+	left:50px;
+}
+   
